@@ -1,0 +1,31 @@
+{
+  "villagers": [
+    {
+      "name": "애비게일",
+      "gender": "여자",
+      "marriage": "가능",
+      "birthday": "가을 13",
+      "livesIn": "펠리컨 마을",
+      "address": "피에르네 잡화점",
+      "gifts": {
+        "love": ["자수정", "블랙베리 코블러", "초콜릿 케이크", "복어", "호박", "매콤한 장어"],
+        "like": ["석영"],
+        "neutral": [
+          "살구 버섯",
+          "흔한 버섯",
+          "수선화",
+          "민들레",
+          "헤이즐넛",
+          "리크",
+          "곰보버섯",
+          "보라색 버섯",
+          "눈마",
+          "겨울뿌리"
+        ],
+        "dislike": ["설탕", "야생 고추냉이"],
+        "hate": ["점토", "호랑가시나무 열매"]
+      },
+      "imgSrc": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png"
+    }
+  ]
+}
