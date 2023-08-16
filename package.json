@@ -1,8 +1,9 @@
 {
   "name": "stardew-wiki",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "stardew valley wiki info",
   "main": "index.js",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/ccconac/stardew-wiki.git"
